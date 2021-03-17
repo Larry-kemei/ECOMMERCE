@@ -5,7 +5,7 @@ body {
   background: #fff;
 }
 p {
-  color: #777;
+  color: rgb(247, 45, 45);
   font-size: 0.85rem;
   line-height: 1.6rem;
 }
@@ -2588,3 +2588,6 @@ aside {
     padding: 1.25rem !important;
   }
 }    
+p{ 
+  color:rgb(245, 38, 38)
+}  
